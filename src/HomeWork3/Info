@@ -1,0 +1,5 @@
+Structure :
+Main class ApplicationFlora
+Class Forest --> abstract class Plant
+Grass extends Forest , Tree & Bush extends Plant
+Ageable & Nameable are interfaces
